@@ -1,0 +1,12 @@
+{
+	"id": "ClaudeMod",
+	"name": "ClaudeMod",
+	"author": ["Josh"],
+	"description": "ClaudeMod",
+	"prefix": "cm",
+	"main_file": "ClaudeMod.lua",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded(>=1.0.0~BETA-0827c)"
+	]
+}
